@@ -65,3 +65,8 @@
 
 7. O bom mesmo é quando as brancas tiram o peão branco delas e travam o centro com o peão e6.... isso geralmente coloca as brancas em total vantagem, pois terá de usar a rainha negra para se defender!
 
+<img src = './img/branca_07.png'>
+
+O que pode resultar em um ataque perigoso, como abaixo.
+
+<img src = './img/branca_08.png'>
