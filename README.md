@@ -70,3 +70,11 @@
 O que pode resultar em um ataque perigoso, como abaixo.
 
 <img src = './img/branca_08.png'>
+
+8. Outra tática excelente de brancas, é quando seu oponente decide fazer a defesa indiana do rei... você terá muitas vantagens em fazer o roque maior! ( LEMBRE-SE DE SEMPRE COLOCAR O SEU BISPO PRETO ALINHADO COM A SUA RAINHA PRETA, POIS QUANDO SEU OPONENTE USA A DEFESA INDIANA DE PRETRA, SEU FOCO É DESTRUIR AQUELE BISPO PRETO!)
+
+<img src = './img/branca_09.png'>
+
+
+
+
