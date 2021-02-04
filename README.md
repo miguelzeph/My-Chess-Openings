@@ -2,11 +2,10 @@
 
 > Neste página, quero documentar um pouco sobre minha visão do Xadrez e também mostrar a forma simples que desenvolvi de jogar e que alcancei bons resultados contra bons players experientes.
 
-<!-- Importando CSS-->
-<link rel="stylesheet" href="./static/css/style.css">
 
- </style>
-<img class = 'center' src = './static/img/01.png'>
+
+<!--<img src = './static/img/01.png' style='display: block;margin-left: auto;margin-right: auto;width: 10%;'>-->
+![xxxxxxxxxxx]('./static/img/01.png)
 
 
 ## Introdução
