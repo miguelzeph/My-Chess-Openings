@@ -5,6 +5,7 @@
 <!-- Importando CSS-->
 <link rel="stylesheet" href="./static/css/style.css">
 
+ </style>
 <img class = 'center' src = './static/img/01.png'>
 
 
