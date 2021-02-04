@@ -75,6 +75,18 @@ O que pode resultar em um ataque perigoso, como abaixo.
 
 <img src = './img/branca_09.png'>
 
+Veja uma situação pós Ataque, perceba como é vantajoso para as brancas, se adiantar o peão em h5 ou h6 irá dar muito trabalho para as pretas defender, sem contar que qualquer peça que apareça perto de d4, a dama branca poderá dar um check e pegar um cavalo no futuro ou algo do tipo.
+
+<img src = './img/branca_010.png'>
+
+## Negras
+
+De negras eu gosto de jogar ou na defensiva tentando algum contra ataque, ou na ofensiva sacrificando um peão para ganhar desenvolvimento no lugar... lembre-se, existem ótimos jogadores que tem dificuldades quando encontram uma defesa sólida bem compactada.
+
+1. Basicamente, tudo depende do que o seu oponente irá fazer... se ele avança o peão em d5, ele te dá oportunidade de aplicar a opção do sacrifício... onde basicamente você responde com e4.
+
+<img src = './img/preta_01.png'>
+
 
 
 
