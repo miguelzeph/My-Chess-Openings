@@ -2,8 +2,11 @@
 
 > Neste página, quero documentar um pouco sobre minha visão do Xadrez e também mostrar a forma simples que desenvolvi de jogar e que alcancei bons resultados contra bons players experientes.
 
+<!-- Importando CSS-->
 <link rel="stylesheet" href="./static/css/style.css">
-<img style= 'float:center;' src = '.static/img/01.png'>
+
+<img class = 'center' src = './static/img/01.png'>
+
 
 ## Introdução
 > Primeiramente para mim o Xadrez é basicamente um jogo de estudo de **aberturas** com **conceitos básicos** somado a **criatividade** e **racioncínio rápido**. Para que você consiga bons resultados no Xadrez você deve enteder as aberturas do jogo, depois os conceitos básicos, tais como:
