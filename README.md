@@ -4,7 +4,7 @@
 
 
 
-<img src = './static/img/01.png' style='width: 10px;height:200px'>
+<img src = './static/img/01.png'>
 
 
 
