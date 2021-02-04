@@ -4,7 +4,7 @@
 
 
 
-<img src = './static/img/01.png'>
+<img src = './img/01.png'>
 
 
 
@@ -44,6 +44,7 @@
  
  2. Caso seu adversário jogue um peão em e5 ou d5, você repetirá a mesma jogada que ele, feito isso você trava o jogo central e evita ele avançar pra cima de você, caso ele queira ainda fazer isso, ele terá de se expor mais.... vejamos como pode ter ficado nosso tabuleiro.
  
- <img src = './static/img/branca_01.png'>
+<img src = './img/branca_01.png'>
+<img src = './img/branca_02.png'>
  
  
