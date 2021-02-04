@@ -58,3 +58,10 @@
 5. Caso ele abra um outro cavalo, então você sem pensar pode jogar um peão d4 e daqui em diante é com você, na minha visão você estará na vantagem no futuro, pois terá muitos pontos de como pressionar ele.
 
 <img src = './img/branca_05.png'>
+
+6. tente forçar sempre a peça em c6 com bispo branco e cavalo... bons jogadores cometem erros quando o tempo é curto, geralmente você sairá na vantage, veja a imagem abaixo.
+
+<img src = './img/branca_06.png'>
+
+7. O bom mesmo é quando as brancas tiram o peão branco delas e travam o centro com o peão e6.... isso geralmente coloca as brancas em total vantagem, pois terá de usar a rainha negra para se defender!
+
