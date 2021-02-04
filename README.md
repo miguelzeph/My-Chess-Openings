@@ -46,5 +46,15 @@
  
 <img src = './img/branca_01.png'>
 <img src = './img/branca_02.png'>
+
+3. Contudo, caso seu adversário opte por desenvolver cavalo também, você desenvolve o outro.
+
+<img src = './img/branca_03.png'>
+
+4. Daqui em diante provavelmente ele irá abrir um d5... lembre-se da nossa regra inicial, de brancas, espelhe o centro com seu adversário que você sairá na vantagem.
  
- 
+<img src = './img/branca_04.png'>
+
+5. Caso ele abra um outro cavalo, então você sem pensar pode jogar um peão d4 e daqui em diante é com você, na minha visão você estará na vantagem no futuro, pois terá muitos pontos de como pressionar ele.
+
+<img src = './img/branca_05.png'>
