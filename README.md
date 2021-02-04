@@ -40,4 +40,10 @@
  
  ## Brancas
  
+ 1. Gosto de desenvolver o cavalo da rainha primeiramente, pois penso que a primeira jogada não é tão determinante pro jogo, pois sempre que você evolui cavalo ou bispo é uma boa jogada... Sem contar que isso confunde seu adversário, que na grande maioria das vezes espera um peão em e4 ou d4.
+ 
+ 2. Caso seu adversário jogue um peão em e5 ou d5, você repetirá a mesma jogada que ele, feito isso você trava o jogo central e evita ele avançar pra cima de você, caso ele queira ainda fazer isso, ele terá de se expor mais.... vejamos como pode ter ficado nosso tabuleiro.
+ 
+ <img src = './static/img/branca_01.png'>
+ 
  
