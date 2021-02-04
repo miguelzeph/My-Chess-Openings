@@ -87,6 +87,17 @@ De negras eu gosto de jogar ou na defensiva tentando algum contra ataque, ou na 
 
 <img src = './img/preta_01.png'>
 
+Desta posição podem surgir muitas variações, mas o normal mesmo é que as brancas capturem o peão preto, então poderão sofrer nas mãos das pretas.
+
+
+<img src = './img/preta_02.png'>
+
+Uma possível situação é essa acima, onde a dama branca está no centro do tabuleiro. Daqui podemos chegar até uma outra posição de muito risco para as brancas. Dependendo do que as branca jogarem, as negras poderão conquista um mate muito rápido com a remoção do cavalo em f3.
+
+<img src = './img/preta_03.png'>
+
+> LOADING.... (ESTOU MEIO SEM TEMPO PARA FINALIZAR MINHAS DICAS, EM BREVE TEREMOS MAIS)
+
 
 
 
