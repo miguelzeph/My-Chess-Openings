@@ -4,8 +4,8 @@
 
 
 
-<!--<img src = './static/img/01.png' style='display: block;margin-left: auto;margin-right: auto;width: 10%;'>-->
-![xxxxxxxxxxx]('./static/img/01.png)
+<img src = './static/img/01.png' style='width: 10px;height:200px'>
+
 
 
 ## Introdução
