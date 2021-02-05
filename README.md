@@ -96,7 +96,20 @@ Uma possível situação é essa acima, onde a dama branca está no centro do ta
 
 <img src = './img/preta_03.png'>
 
-> LOADING.... (ESTOU MEIO SEM TEMPO PARA FINALIZAR MINHAS DICAS, EM BREVE TEREMOS MAIS)
+2. Geralmente a **Defesa Índia do Rei** é muito útil de negras. Perceba que caso o peão branco de e5 force um ataque, provavelmente as brancas sairão perdendo, podendo perder até mesmo o roque com a troca de dama por dama.
+
+<img src = './img/preta_04.png'>
+
+Apesar de ser uma boa alternativa, deve-se ter sempre atenção com as brancas quando tentarem a troca de bispo preto por preto, pois ele é o segredor por manter a defesa das negras bem compactada. Veja uma situação chata para as negras, se a negra fizer o roque, provavelmente as brancas vão jogar bispo em h6 e forçar uma troca. Vale lembrar que mesmo que esse bispo em h6 venha aparecer, nunca capture ele com o seu bispo, pois isso trará a dama muito próximo ao rei das negras... na pior das hipóteses, deixe as brancas atacarem o bispo negro das negras.
+
+
+<img src = './img/preta_05.png'>
+
+No entanto, uma alternativa a essa situação seria realizar o roque antes do alinhamento da Dama branca com o bispo negro, possibilitando as negras a tirar a torre da linha do bispo preto em h6 e caso o bispo negro das brancas forçassem a troca, basta as negras evitarem essa troca jogando o bispo em h8 (veja abaixo).
+
+<img src = './img/preta_06.png'>
+
+
 
 
 
