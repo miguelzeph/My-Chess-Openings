@@ -114,7 +114,7 @@ Apesar de ser muito defensiva, a Índia do Rei também tem um ataque força mais
 
 <img src = './img/preta_07.png'>
 
-> LOADING ... :D
+> LOADING ... >:D
 
 
 
