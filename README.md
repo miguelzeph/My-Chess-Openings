@@ -110,6 +110,15 @@ No entanto, uma alternativa a essa situação seria realizar o roque antes do al
 <img src = './img/preta_06.png'>
 
 
+Apesar de ser muito defensiva, a Índia do Rei também tem um ataque força mais para o fim da partida, veja uma situação que mesmo torcando um bispo por 2 peões as negras começam a incomodar muito as brancas.
+
+<img src = './img/preta_07.png'>
+
+> LOADING ... :D
+
+
+
+
 
 
 
